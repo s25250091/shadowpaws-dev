@@ -1,0 +1,13 @@
+{
+    "homeRefreshIntervalMs": 1800000,
+    "baseStorageUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/",
+    "providersUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/providers.json",
+    "versionsUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/versions.json",
+    "catesUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/cates.json",
+    "tmdbApiKey": "a955a07ac16dfa9a1977c6e03c34b875",
+    "tmdbBaseUrl": "https://api.themoviedb.org/3/",
+    "tmdbImageBaseUrl": "https://image.tmdb.org/t/p/w500",
+    "ticketApiBaseUrl": "http://192.168.1.16:8088/",
+    "ticketApiKey": "default-insecure-key",
+    "apiOrigin": "app://shadow-paws"
+}
