@@ -1,0 +1,21 @@
+[
+  {
+    "id": "movies",
+    "slug": "latest.movie",
+    "name": { "en": "Movies", "zh": "电影" },
+    "children": [
+      { "id": "m1", "slug": "trending.movie", "name": { "en": "Now Trending", "zh": "正在热门" } },
+      { "id": "m2", "slug": "latest.movie.china", "name": { "en": "Chinese Movies", "zh": "华语电影" } },
+      { "id": "m3", "slug": "latest.movie.us", "name": { "en": "Hollywood", "zh": "美国电影" } }
+    ]
+  },
+  {
+    "id": "tvshows",
+    "slug": "latest.tv-show",
+    "name": { "en": "TV Shows", "zh": "电视剧" },
+    "children": [
+      { "id": "t1", "slug": "trending.tv-show", "name": { "en": "Top Picks", "zh": "精选剧集" } },
+      { "id": "t2", "slug": "latest.tv-show.china", "name": { "en": "Mainland Drama", "zh": "国产剧" } }
+    ]
+  }
+]
