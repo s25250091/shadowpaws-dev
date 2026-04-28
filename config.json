@@ -4,6 +4,7 @@
     "providersUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/providers.json",
     "versionsUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/versions.json",
     "catesUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/cates.json",
+    "categoryConfigUrl": "https://storage.googleapis.com/shadow-paws-development.firebasestorage.app/cates-config.json",
     "tmdbApiKey": "a955a07ac16dfa9a1977c6e03c34b875",
     "tmdbBaseUrl": "https://api.themoviedb.org/3/",
     "tmdbImageBaseUrl": "https://image.tmdb.org/t/p/w500",
